@@ -1,6 +1,8 @@
 # AI-Canvas-Reminder
 <sub>I put off doing homework for this.</sub>
 
+### This program retreives upcoming assignments from the Canvas API, turns them into a reminder in natural language with GPT3.5 and sends them to your devices with a push notification.
+
 ## Requirements
 - NodeJS 16 or higher.
 - An openai API key.
